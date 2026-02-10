@@ -31,5 +31,11 @@ Run phylo-distance-v1.sh and s2d-v1.sh scripts.
 
 # Comments and questions
 
+Adolfo Bastida 
+
+Department of Physical Chemistry
+
+Universidad de Murcia
+
 bastida@um.es
 
