@@ -12,7 +12,7 @@ STRIDE (https://github.com/MDAnalysis/stride) and megacc (https://www.megasoftwa
 
 Include the cif files that you want to analyze in the /data-dif subfolder (an example is provided).
 
-# Fortran codes
+## Fortran codes
 
 Compile the fortran codes using fortran-v1.sh
 
