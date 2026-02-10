@@ -1,4 +1,5 @@
 # S2D
+
 Secondary structure distance in proteins
 
 Bash scripts have been tested in Ubuntu 22.04.5.
@@ -27,4 +28,8 @@ Align protein sequeces using alignement-v1.sh
 # Calculate phylogenetic and secondary structure distances
 
 Run phylo-distance-v1.sh and s2d-v1.sh scripts.
+
+# Comments and questions
+
+bastida@um.es
 
