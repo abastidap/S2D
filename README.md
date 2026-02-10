@@ -10,7 +10,7 @@ STRIDE (https://github.com/MDAnalysis/stride) and _megacc_ (https://www.megasoft
 
 ## CIF Files
 
-Include the cif files that you want to analyze in the _/data-dif_ subfolder (an example is provided).
+Include the cif files that you want to analyze in the _/data-cif_ subfolder (an example is provided).
 
 ## Fortran codes
 
